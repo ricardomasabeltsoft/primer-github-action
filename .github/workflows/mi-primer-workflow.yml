@@ -1,5 +1,5 @@
 name: Mi Primer Workflow
-on: workflow-dispatch
+on: workflow_dispatch
 jobs:
   mi-primer-job:
     runs-on: ubuntu-latest
